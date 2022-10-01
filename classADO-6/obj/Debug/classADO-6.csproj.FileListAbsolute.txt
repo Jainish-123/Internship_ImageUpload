@@ -1,0 +1,6 @@
+D:\JAINISH\Internship 2\classADO-6\bin\Debug\classADO-6.dll
+D:\JAINISH\Internship 2\classADO-6\bin\Debug\classADO-6.pdb
+D:\JAINISH\Internship 2\classADO-6\obj\Debug\classADO-6.csproj.AssemblyReference.cache
+D:\JAINISH\Internship 2\classADO-6\obj\Debug\classADO-6.csproj.CoreCompileInputs.cache
+D:\JAINISH\Internship 2\classADO-6\obj\Debug\classADO-6.dll
+D:\JAINISH\Internship 2\classADO-6\obj\Debug\classADO-6.pdb
